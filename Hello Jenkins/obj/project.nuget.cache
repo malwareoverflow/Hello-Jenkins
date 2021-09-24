@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "flrL6smcRqomJ/k0YUYtv5rO7HSN2IZfnJdrWOpM32uqPEnAbMTCbnDsUZdhikFN3a1RCMZC2+K5+ht6ve/WvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taha.temuri\\source\\repos\\Hello Jenkins\\Hello Jenkins\\Hello Jenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taha.temuri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
