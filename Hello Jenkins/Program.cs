@@ -31,6 +31,8 @@ namespace Hello_Jenkins
             {
                 Console.WriteLine("Please enter a numeric argument.");
                 Console.WriteLine("Usage: Factorial <num>");
+
+                Console.ReadLine();
                 return 1;
             }
 
@@ -43,6 +45,7 @@ namespace Hello_Jenkins
             {
                 Console.WriteLine("Please enter a numeric argument.");
                 Console.WriteLine("Usage: Factorial <num>");
+                Console.ReadLine();
                 return 1;
             }
 
@@ -54,6 +57,7 @@ namespace Hello_Jenkins
                 Console.WriteLine("Input must be >= 0 and <= 20.");
             else
                 Console.WriteLine($"The Factorial of {num} is {result}.");
+            Console.ReadLine();
 
             return 0;
         }

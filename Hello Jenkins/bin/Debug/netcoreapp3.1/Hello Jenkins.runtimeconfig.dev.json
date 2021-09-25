@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Windows\\system32\\config\\systemprofile\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\taha.temuri\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\taha.temuri\\.nuget\\packages"
     ]
   }
